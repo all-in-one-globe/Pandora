@@ -153,10 +153,3 @@ predict(['its unbelievable that in the 21st century wed need something like this
 
 predict(['The Government Media Office in Gaza says over 700 Palestinians were killed by Israeli airstrikes in the besieged Gaza Strip over the last 24 hours'])
 
-predict(['He is a Poor child lost his father and his brother, after IOF bombed their house in Gaza'])
-
-predict(["desai is a sore loser ,😂😂🤣🤣🤜🏼🤥😞😋😔🙁 he cannot surviv"])
-
-predict(['Yamazaki gives G-fans plenty of reasons to see “Godzilla Minus One” in theaters. He’s got a clear eye for action and a firm grasp on feel-good, saber-rattling melodrama. '])
-
-predict(['not satisfied'])
